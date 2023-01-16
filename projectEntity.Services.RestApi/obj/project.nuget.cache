@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xp3S+mIiVzurDA4K4zZP5T8sfJSvXoY2wW2Xdtl9bFJokbhvQa6yQyCH4X/5QSH0N8AdKGkL4FMVH2H4ZroJ4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabtavares\\source\\repos\\projectEntity.Services.RestApi\\projectEntity.Services.RestApi\\projectEntity.Services.RestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabtavares\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

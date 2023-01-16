@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7eIKlXyp+3/Mka1Y7y6D/2PyHdkbXnpavtS/u/21eh7rTIJNDqB3kattdzfnZ7G0UfukbyQyn3KSE3ZFC5v4og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabtavares\\Desktop\\repos\\cursos\\projectEntity.Services.RestApi\\projectEntity.Infra.CrossCutting.IoC\\projectEntity.Infra.CrossCutting.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabtavares\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\gabtavares\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
