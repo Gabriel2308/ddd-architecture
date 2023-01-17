@@ -69,3 +69,8 @@ C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\obj\Debug\net5.0\project.Entity.Service.Rest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\bin\Debug\net5.0\Autofac.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.pdb
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\project.Entity.Service.Rest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

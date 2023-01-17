@@ -16,7 +16,7 @@ namespace projectEntity.Infra.Data.DbConfig
 
         protected void OpenConnection(string strConnect)
         {
-            sqlConnection.ConnectionString = "";
+            sqlConnection.ConnectionString = strConnect;
             sqlConnection.Open(); //abertura da conexao com o banco
         }
 

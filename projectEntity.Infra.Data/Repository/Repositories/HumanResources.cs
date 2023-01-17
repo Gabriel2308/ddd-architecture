@@ -8,7 +8,7 @@ namespace projectEntity.Infra.Data.Repository.Repositories
 {
     public class HumanResources : ConexaoSQL, IHumanResources
     {
-        private string strConnection = "";
+        private string strConnection = @"Persist Security Info=False;Integrated Security=SSPI; database=AdventureWorks2019;server=AGIN15\SQLEXPRESS";
         public List<Departamento> ConsultarDepartamentos()
         {
             List<Departamento> listaDepartamentos = new List<Departamento>();
