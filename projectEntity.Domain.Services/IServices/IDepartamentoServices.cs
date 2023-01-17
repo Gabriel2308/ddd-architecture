@@ -10,5 +10,6 @@ namespace projectEntity.Domain.Services.IServices
     public interface IDepartamentoServices
     {
         public List<DepartamentoDTO> ListarDepartamentos();
+        public Object CriarDepartamento(string name, string group);
     }
 }

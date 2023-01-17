@@ -19,6 +19,21 @@ namespace projectEntity.Domain.Services.Services
             _humanResources = humanResources;
             _humanResourcesMapper = humanResourcesMapper;
         }
+
+        public object CriarDepartamento(string name, string group)
+        {
+            try
+            {
+                var departamento = _humanResources.CriarNovoDepartamento(name, group);
+
+                return departamento;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public List<DepartamentoDTO> ListarDepartamentos()
         {
             try

@@ -32,5 +32,18 @@ namespace project.Entity.Service.Rest.Controllers
                 return StatusCode(500);
             }
         }
+        [HttpPost("criarDepartamento/{name}/{group}")]
+        public ActionResult CriarDepartamento(string name, string group)
+        {
+            try
+            {
+                var departamento = _departamentoService.CriarDepartamento(name, group);
+                return Ok(departamento);
+            }
+            catch(Exception ex)
+            {
+                return StatusCode(500);
+            }
+        }
     }
 }

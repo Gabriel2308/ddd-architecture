@@ -9,6 +9,7 @@ namespace projectEntity.Infra.Data.Repository.IRepositories
 {
     public interface IHumanResources
     {
-        List<Departamento> ConsultarDepartamentos();
+        public List<Departamento> ConsultarDepartamentos();
+        public SucessResponse CriarNovoDepartamento(string name, string group);
     }
 }

@@ -46,5 +46,48 @@ namespace projectEntity.Infra.Data.Repository.Repositories
                 CloseConnection();
             }
         }
+
+        public SucessResponse CriarNovoDepartamento(string name, string group)
+        {
+            var response = new SucessResponse();
+
+            try
+            {
+                sqlCommand = new SqlCommand();
+                sqlConnection = new SqlConnection();
+
+                OpenConnection(strConnection);
+                sqlCommand = new SqlCommand("INSERT INTO HumanResources.Department (Name, GroupName)" +
+                                            "VALUES (@Name, @GroupName)", sqlConnection);
+
+                sqlCommand.Parameters.AddWithValue("@Name", name);
+                sqlCommand.Parameters.AddWithValue("@GroupName", group);
+
+                sqlDataReader = sqlCommand.ExecuteReader();
+                if (sqlDataReader.Read())
+                {
+                    response.code = 200;
+                    response.message = "Cadastro realizado com sucesso";
+
+                    return response;
+                }
+                else
+                {
+                    response.code = 500;
+                    response.message = "Erro ao realizar cadastro";
+
+                    return response;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                CloseConnection();
+            }
+        }
     }
 }
