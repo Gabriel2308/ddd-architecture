@@ -8,4 +8,10 @@
     <PackageReference Include="Autofac" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\projectEntity.Domain.Services\projectEntity.Domain.Services.csproj" />
+    <ProjectReference Include="..\projectEntity.Infra.CrossCutting.Adapter\projectEntity.Infra.CrossCutting.Adapter.csproj" />
+    <ProjectReference Include="..\projectEntity.Infra.Data\projectEntity.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>

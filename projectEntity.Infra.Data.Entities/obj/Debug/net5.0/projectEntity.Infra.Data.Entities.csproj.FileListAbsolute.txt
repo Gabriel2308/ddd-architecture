@@ -1,0 +1,12 @@
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\bin\Debug\net5.0\projectEntity.Infra.Data.Entities.deps.json
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\bin\Debug\net5.0\projectEntity.Infra.Data.Entities.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\bin\Debug\net5.0\ref\projectEntity.Infra.Data.Entities.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\bin\Debug\net5.0\projectEntity.Infra.Data.Entities.pdb
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\projectEntity.Infra.Data.Entities.csproj.AssemblyReference.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\projectEntity.Infra.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\projectEntity.Infra.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\projectEntity.Infra.Data.Entities.AssemblyInfo.cs
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\projectEntity.Infra.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\projectEntity.Infra.Data.Entities.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\ref\projectEntity.Infra.Data.Entities.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.Data.Entities\obj\Debug\net5.0\projectEntity.Infra.Data.Entities.pdb

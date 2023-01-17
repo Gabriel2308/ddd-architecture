@@ -1,0 +1,17 @@
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.deps.json
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\ref\projectEntity.Infra.CrossCutting.Adapter.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.pdb
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\projectEntity.Domain.DTO.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\projectEntity.Infra.Data.Entities.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\projectEntity.Domain.DTO.pdb
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\bin\Debug\net5.0\projectEntity.Infra.Data.Entities.pdb
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.csproj.AssemblyReference.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.AssemblyInfoInputs.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.AssemblyInfo.cs
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.csproj.CopyComplete
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\ref\projectEntity.Infra.CrossCutting.Adapter.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.Adapter\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.Adapter.pdb

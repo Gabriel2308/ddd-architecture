@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "projectEntity.Domain.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/projectEntity.Domain.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projectEntity.Domain.DTO.dll": {}
+        }
+      },
+      "projectEntity.Infra.Data.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/projectEntity.Infra.Data.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projectEntity.Infra.Data.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "projectEntity.Domain.DTO/1.0.0": {
+      "type": "project",
+      "path": "../projectEntity.Domain.DTO/projectEntity.Domain.DTO.csproj",
+      "msbuildProject": "../projectEntity.Domain.DTO/projectEntity.Domain.DTO.csproj"
+    },
+    "projectEntity.Infra.Data.Entities/1.0.0": {
+      "type": "project",
+      "path": "../projectEntity.Infra.Data.Entities/projectEntity.Infra.Data.Entities.csproj",
+      "msbuildProject": "../projectEntity.Infra.Data.Entities/projectEntity.Infra.Data.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "projectEntity.Domain.DTO >= 1.0.0",
+      "projectEntity.Infra.Data.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\gabtavares\\.nuget\\packages\\": {},
@@ -37,7 +72,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\gabtavares\\Desktop\\repos\\cursos\\projectEntity.Services.RestApi\\projectEntity.Domain.DTO\\projectEntity.Domain.DTO.csproj": {
+              "projectPath": "C:\\Users\\gabtavares\\Desktop\\repos\\cursos\\projectEntity.Services.RestApi\\projectEntity.Domain.DTO\\projectEntity.Domain.DTO.csproj"
+            },
+            "C:\\Users\\gabtavares\\Desktop\\repos\\cursos\\projectEntity.Services.RestApi\\projectEntity.Infra.Data.Entities\\projectEntity.Infra.Data.Entities.csproj": {
+              "projectPath": "C:\\Users\\gabtavares\\Desktop\\repos\\cursos\\projectEntity.Services.RestApi\\projectEntity.Infra.Data.Entities\\projectEntity.Infra.Data.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

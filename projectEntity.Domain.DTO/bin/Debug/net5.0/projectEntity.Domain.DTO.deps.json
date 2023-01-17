@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "projectEntity.Domain.DTO/1.0.0": {
+        "runtime": {
+          "projectEntity.Domain.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projectEntity.Domain.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

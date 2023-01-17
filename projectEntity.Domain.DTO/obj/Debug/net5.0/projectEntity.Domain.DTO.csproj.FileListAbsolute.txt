@@ -1,0 +1,12 @@
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\bin\Debug\net5.0\projectEntity.Domain.DTO.deps.json
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\bin\Debug\net5.0\projectEntity.Domain.DTO.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\bin\Debug\net5.0\ref\projectEntity.Domain.DTO.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\bin\Debug\net5.0\projectEntity.Domain.DTO.pdb
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\projectEntity.Domain.DTO.csproj.AssemblyReference.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\projectEntity.Domain.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\projectEntity.Domain.DTO.AssemblyInfoInputs.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\projectEntity.Domain.DTO.AssemblyInfo.cs
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\projectEntity.Domain.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\projectEntity.Domain.DTO.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\ref\projectEntity.Domain.DTO.dll
+C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.DTO\obj\Debug\net5.0\projectEntity.Domain.DTO.pdb

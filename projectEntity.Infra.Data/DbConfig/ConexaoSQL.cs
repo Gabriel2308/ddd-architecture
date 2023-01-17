@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace projectEntity.Infra.Data.DbConfig
 {
-    class ConexaoSQL
+    public class ConexaoSQL
     {
         protected SqlConnection sqlConnection; //conexão com banco de dados
         protected SqlCommand sqlCommand; //executada comandos SQL

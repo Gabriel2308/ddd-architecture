@@ -9,8 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\IRepositories\" />
-    <Folder Include="Repository\Repositories\" />
+    <ProjectReference Include="..\projectEntity.Infra.Data.Entities\projectEntity.Infra.Data.Entities.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\projectEntity.Domain.DTO\projectEntity.Domain.DTO.csproj" />
+    <ProjectReference Include="..\projectEntity.Infra.Data.Entities\projectEntity.Infra.Data.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

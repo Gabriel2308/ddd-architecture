@@ -279,6 +279,16 @@
             "rid": "win"
           }
         }
+      },
+      "projectEntity.Infra.Data.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/projectEntity.Infra.Data.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projectEntity.Infra.Data.Entities.dll": {}
+        }
       }
     }
   },
@@ -1017,11 +1027,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "projectEntity.Infra.Data.Entities/1.0.0": {
+      "type": "project",
+      "path": "../projectEntity.Infra.Data.Entities/projectEntity.Infra.Data.Entities.csproj",
+      "msbuildProject": "../projectEntity.Infra.Data.Entities/projectEntity.Infra.Data.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "EntityFramework >= 6.4.4"
+      "EntityFramework >= 6.4.4",
+      "projectEntity.Infra.Data.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1054,7 +1070,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\gabtavares\\Desktop\\repos\\cursos\\projectEntity.Services.RestApi\\projectEntity.Infra.Data.Entities\\projectEntity.Infra.Data.Entities.csproj": {
+              "projectPath": "C:\\Users\\gabtavares\\Desktop\\repos\\cursos\\projectEntity.Services.RestApi\\projectEntity.Infra.Data.Entities\\projectEntity.Infra.Data.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
