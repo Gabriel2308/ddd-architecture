@@ -64,23 +64,59 @@ namespace projectEntity.Infra.Data.Repository.Repositories
                 sqlCommand.Parameters.AddWithValue("@GroupName", group);
 
                 sqlDataReader = sqlCommand.ExecuteReader();
-                if (sqlDataReader.Read())
+                if (sqlCommand.ExecuteNonQuery()>0)
                 {
                     response.code = 200;
                     response.message = "Cadastro realizado com sucesso";
-
                     return response;
                 }
                 else
                 {
                     response.code = 500;
                     response.message = "Erro ao realizar cadastro";
-
                     return response;
                 }
 
             }
             catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                CloseConnection();
+            }
+        }
+        public SucessResponse DeleteDepartamento(string name)
+        {
+            var success = new SucessResponse();
+            try
+            {
+                sqlCommand = new SqlCommand();
+                sqlConnection = new SqlConnection();
+
+                OpenConnection(strConnection);
+
+                sqlCommand = new SqlCommand("DELETE FROM HumanResources.Department WHERE Name= @Name", sqlConnection);
+
+                sqlCommand.Parameters.AddWithValue("@Name", name);
+
+                if (sqlCommand.ExecuteNonQuery() > 0)
+                {
+                    success.code = 200;
+                    success.message = "Registro deletado com sucesso";
+
+                    return success;
+                }
+                else
+                {
+                    success.code = 500;
+                    success.message = "Houve um erro ao deletar o registro";
+
+                    return success;
+                }
+            }
+            catch(Exception ex)
             {
                 throw ex;
             }

@@ -34,6 +34,20 @@ namespace projectEntity.Domain.Services.Services
             }
         }
 
+        public object DeletarDepartamento(string name)
+        {
+            try
+            {
+                var deleteDpt = _humanResources.DeleteDepartamento(name);
+
+                return deleteDpt;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public List<DepartamentoDTO> ListarDepartamentos()
         {
             try

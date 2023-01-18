@@ -14,12 +14,15 @@ namespace projectEntity.Infra.CrossCutting.IoC
         public static void Load(ContainerBuilder builder)
         {
             builder.RegisterType<DepartamentoServices>().As<IDepartamentoServices>();
+            builder.RegisterType<EmployeesServices>().As<IEmployeesServices>();
 
 
             builder.RegisterType<HumanResources>().As<IHumanResources>();
+            builder.RegisterType<EmployeesRepository>().As<IEmployeesRepository>();
 
 
             builder.RegisterType<HumanResourcesMapper>().As<IHumanResourcesMapper>();
+            builder.RegisterType<EmployeesMapper>().As<IEmployeesMapper>();
         }
     }
 }

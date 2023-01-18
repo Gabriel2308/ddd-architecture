@@ -11,5 +11,6 @@ namespace projectEntity.Domain.Services.IServices
     {
         public List<DepartamentoDTO> ListarDepartamentos();
         public Object CriarDepartamento(string name, string group);
+        public Object DeletarDepartamento(string name);
     }
 }

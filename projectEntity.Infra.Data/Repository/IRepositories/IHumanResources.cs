@@ -11,5 +11,6 @@ namespace projectEntity.Infra.Data.Repository.IRepositories
     {
         public List<Departamento> ConsultarDepartamentos();
         public SucessResponse CriarNovoDepartamento(string name, string group);
+        public SucessResponse DeleteDepartamento(string name);
     }
 }
