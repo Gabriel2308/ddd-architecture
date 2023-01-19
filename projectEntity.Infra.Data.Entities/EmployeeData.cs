@@ -23,6 +23,7 @@ namespace projectEntity.Infra.Data.Entities
         public int sickLeaveHours { get; set; }
         public int currentFlag { get; set; }
         public string rowGuid { get; set; }
+        public string modifiedDate { get; set; }
 
     }
 }

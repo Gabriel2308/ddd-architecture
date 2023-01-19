@@ -1,6 +1,4 @@
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\bin\Debug\net5.0\projectEntity.Domain.Services.deps.json
-C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\bin\Debug\net5.0\projectEntity.Domain.Services.runtimeconfig.json
-C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\bin\Debug\net5.0\projectEntity.Domain.Services.runtimeconfig.dev.json
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\bin\Debug\net5.0\projectEntity.Domain.Services.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\bin\Debug\net5.0\ref\projectEntity.Domain.Services.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\bin\Debug\net5.0\projectEntity.Domain.Services.pdb
@@ -21,4 +19,3 @@ C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectE
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\obj\Debug\net5.0\projectEntity.Domain.Services.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\obj\Debug\net5.0\ref\projectEntity.Domain.Services.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\obj\Debug\net5.0\projectEntity.Domain.Services.pdb
-C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Domain.Services\obj\Debug\net5.0\projectEntity.Domain.Services.genruntimeconfig.cache

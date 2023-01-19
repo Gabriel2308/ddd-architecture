@@ -46,7 +46,8 @@ namespace projectEntity.Infra.Data.Repository.Repositories
                         vacationHours = Convert.ToInt32(sqlDataReader["VacationHours"]),
                         sickLeaveHours = Convert.ToInt32(sqlDataReader["SickLeaveHours"]),
                         currentFlag = Convert.ToInt32(sqlDataReader["CurrentFlag"]),
-                        rowGuid = String.Format("{0}", sqlDataReader["rowguid"])
+                        rowGuid = String.Format("{0}", sqlDataReader["rowguid"]),
+                        modifiedDate = String.Format("{0}", sqlDataReader["ModifiedDate"])
                     };
 
                     return employee;

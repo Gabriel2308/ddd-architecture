@@ -1,6 +1,4 @@
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.deps.json
-C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.runtimeconfig.json
-C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.runtimeconfig.dev.json
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\bin\Debug\net5.0\ref\projectEntity.Infra.CrossCutting.IoC.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\bin\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.pdb
@@ -23,4 +21,3 @@ C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectE
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\obj\Debug\net5.0\ref\projectEntity.Infra.CrossCutting.IoC.dll
 C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.pdb
-C:\Users\gabtavares\Desktop\repos\cursos\projectEntity.Services.RestApi\projectEntity.Infra.CrossCutting.IoC\obj\Debug\net5.0\projectEntity.Infra.CrossCutting.IoC.genruntimeconfig.cache
